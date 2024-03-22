@@ -80,7 +80,7 @@
     \node[right] at (1.8,-9.8)
       {学　　院：\underline{　　　　　　　　　　　　　　　　　　}};
     \node[right] at (1.8,-11.9)
-      {组号：\rule[-5pt]{3.72cm}{1pt}指导教师：\rule[-5pt]{8.7cm}{1pt}};
+      {组号：\rule[-5pt]{3.72cm}{1pt}指导教师：\rule[-5pt]{3.7cm}{1pt}};
     \node[right] at (1.8,-14.0)
       {报告人：\rule[-5pt]{4cm}{1pt}学号：\rule[-5pt]{4.4cm}{1pt}};
     \node[right] at (1.8,-16.1)
