@@ -45,9 +45,9 @@
   \thispagestyle{empty}
   \begin{tikzpicture}[remember picture, overlay, inner sep=0pt,every node/.style={right, font=\fontsize{11}{11}\selectfont}]
     \node at (0.48,0.5)
-    {课程编号\underline{　　　　　　}};
+      {课程编号：\underline{　　　　　　}};
     \node at (0.48,-0.2)
-      {实验类型\underline{　　  实训实验　　　　　}};
+      {实验类型：\underline{　　  实训实验　　　　　}};
     \draw (8.45,1.2) rectangle (14.75,-0.8);
     \draw (8.45,0.6) -- (14.75,0.6);
     \draw (9.9,1.2) rectangle (9.9,-0.8);

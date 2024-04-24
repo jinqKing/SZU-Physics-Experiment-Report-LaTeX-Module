@@ -3,3 +3,5 @@
 *.gz
 实用主义白板.pdf
 *.xdv
+*.fdb_latexmk
+*.fls
